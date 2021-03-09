@@ -1,2 +1,2 @@
-# UNO_SoftSerialTimeout
+#RS485_SerialTimeout
 RS485_SerialTimeout
